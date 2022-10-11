@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-    <img alt="Food" title="#Food" src="./.github/desktop-1.jpg" />
+    <img alt="Blog" title="#Blog" src="./.github/desktop-1.jpg" />
 </h1>
 
 - Projeto de um site institucional dos meus conteúdos.

@@ -13,6 +13,7 @@
 - [ ] design personalizado
 - [ ] responsividade
 - [ ] favicon
+- [ ] páginas para conteúdos
 
 #### Telas
 
@@ -30,5 +31,4 @@
 
 #### Inspirações para aperfeiçoamentos  
 
-- [Receitas](https://www.receiteria.com.br/receitas-de-sanduiche/)
-- [Entrevista da Chef](https://exame.com/pme/como-paola-carosella-se-tornou-cozinheira-e-empreendedora/)
+- Funcionalidades de um site bom

@@ -13,7 +13,10 @@
 - [ ] design personalizado
 - [ ] responsividade
 - [ ] favicon
-- [ ] páginas para conteúdos
+- [ ] logo e nome
+- [ ] estilizar página de item
+- [ ] personalizar página dinamicamente
+- [ ] conteúdo de cards em objeto
 
 #### Telas
 

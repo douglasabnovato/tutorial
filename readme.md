@@ -12,8 +12,8 @@
 
 - [ ] design personalizado
 - [ ] responsividade
-- [ ] favicon
-- [ ] logo e nome
+- [x] favicon
+- [x] logo e nome
 - [ ] estilizar página de item
 - [ ] personalizar página dinamicamente
 - [ ] conteúdo de cards em objeto
